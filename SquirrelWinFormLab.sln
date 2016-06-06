@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquirrelWinFormLab", "SquirrelWinFormLab\SquirrelWinFormLab.csproj", "{918EFE52-559A-42DE-B763-A89DF8033FC5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SourcePackages", "SourcePackages", "{2F999FA1-6B89-461D-BF67-43D0D1029718}"
+	ProjectSection(SolutionItems) = preProject
+		SourcePackages\SquirrelWinFormLab.1.0.16.nupkg = SourcePackages\SquirrelWinFormLab.1.0.16.nupkg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
